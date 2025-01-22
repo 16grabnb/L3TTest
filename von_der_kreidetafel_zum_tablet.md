@@ -72,7 +72,6 @@ Nicht direkt als Weiterentwicklung, aber durch die Namensgleichheit schwer unter
 
 Der Vorteil ist die Kombination aus Altem und Neuem. So kann man fast wie mit der Kreidetafel arbeiten, zum Beispiel per Stift mehrfarbig zeichnen und zum Löschen einfach mit dem Handballen wischen. Hinzu kommt die Möglichkeit, das Tafelbild digital zu speichern. Bei Powerpoints kann man nun auch Anmerkungen aktiv einzeichnen oder digitale Inhalte aus dem Netz (zum Beispiel Google Maps) vorführen. Videos (zum Beispiel von YouTube und Vimeo) können mit den eingebauten Lautsprechern abgespielt werden. Mit der Undo- und Redo-Funktionen können sehr schnell vorbereitete Zeichnungen dargestellt und quasi als Stop-Motion-Film vorgeführt werden. Leider steht man auch hier meist mit dem Rücken zum Auditorium. Es gibt jedoch Möglichkeiten, den Beamer auch per Laptop oder Tablet zu bedienen.
 
-![Interaktives Whiteboard](img/9574680807_24fe79bd3c_o.jpg)
 
 ### !
 
