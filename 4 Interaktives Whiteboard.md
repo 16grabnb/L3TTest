@@ -6,3 +6,8 @@ Der Vorteil ist die Kombination aus Altem und Neuem. So kann man fast wie mit de
 ### !
 
 Johnny Lee Chung hat das Wii-Remote-Projekt als Open Source veröffentlicht, damit die Entwicklung auch nachhaltig und offen ist. Inzwischen gibt es ähnliche Ansätze auch für Virtual-Reality-Displays und für die Xbox Kinect. Infos unter [http://johnnylee.net/projects/wii/](http://johnnylee.net/projects/wii/).
+
+
+### In der Praxis
+
+Interaktive Whiteboards haben mehrere praktische Nachteile. Arbeitet man mit der kostengünstigen Beamer-Lösung, so hat man immer einen Schatten unter der Hand und das Bild auf dem Handrücken und schreibt auf grauer Fläche. Entscheidet man sich für die teurere LCD-Lösung, ist das Glas so dick, dass man bei Seitenblick manchmal die Knöpfe nicht korrekt drückt, da es eine Brechung gibt. Die üblichen Software-Probleme und die Verzögerungen bei Eingaben erfordern zudem leistungsstarke Hardware.
