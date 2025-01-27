@@ -11,3 +11,5 @@ Johnny Lee Chung hat das Wii-Remote-Projekt als Open Source veröffentlicht, dam
 ### In der Praxis
 
 Interaktive Whiteboards haben mitunter praktische Nachteile. Arbeitet man mit der kostengünstigen Beamer-Lösung, so hat man immer einen Schatten unter der Hand und das Bild auf dem Handrücken und schreibt auf grauer Fläche. Teurere Modelle setzen auf Bildschirmtechnologien wie LCD. Je nach Modell können unterschiedliche Probleme wie das fehlerhafte Drücken von Knöpfen durch das dicke Glas entstehen. Die üblichen Software-Probleme und die Verzögerungen bei Eingaben erfordern zudem leistungsstarke Hardware, haben sich allerdings in de letzten Jahren stark verringert.
+
+Meine Änderung
