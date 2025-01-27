@@ -5,7 +5,7 @@ Der Vorteil ist die Kombination aus Altem und Neuem. So kann man fast wie mit de
 
 ### !
 
-Johnny Lee Chung hat das Wii-Remote-Projekt als Open Source veröffentlicht, damit die Entwicklung auch nachhaltig und offen ist. Inzwischen gibt es ähnliche Ansätze auch für Virtual-Reality-Displays und für die Xbox Kinect. Infos unter [http://johnnylee.net/projects/wii/](http://johnnylee.net/projects/wii/).
+Johnny Lee Chung hat das Wii-Remote-Projekt als Open Source veröffentlicht, damit die Entwicklung auch nachhaltig und offen ist. Inzwischen gibt es ähnliche Ansätze auch für Virtual-Reality-Displays und für die Xbox Kinect. 
 
 
 ### In der Praxis
