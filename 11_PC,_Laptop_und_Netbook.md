@@ -3,3 +3,6 @@ Der erste elektronische Computer wurde um 1938-1945 von Konrad Zuse entwickelt. 
 PCs und Laptops durchdringen immer mehr die Unterrichtsräume, die Zunahme an Netbooks kann ebenfalls immer mehr beobachtet werden (siehe Kapitel #schule). Kritische Stimmen meinten anfangs, dass man nun einen etwas besseren Taschenrechner hätte, aber die Vielfalt der Möglichkeiten, die sich dadurch ergeben, ist heute noch immer eine der wesentlichen Fragestellungen des Forschungsgebietes technologiegestütztes Lehren und Lernen.
 
 ![PC](img/9577476406_8f2e8c6ea2_b.jpg)
+
+
+Mein toller neuer Text
